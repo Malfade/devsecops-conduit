@@ -40,7 +40,7 @@ export default function Home() {
       <div className="banner">
         <div className="container">
           <h1 className="logo-font">conduit</h1>
-          <p>Continuous delivery in action: deployed automatically by robot.</p>
+          <p>Nikita Undusk</p>
         </div>
       </div>
 
